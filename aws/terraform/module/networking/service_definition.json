@@ -1,0 +1,12 @@
+[{
+        "Cpu": None,
+        "image": "sample-tomcat",
+        "Memory": None,
+        "name": "app",
+        "networkMode": "awsvpc",
+        "portMappings": [{
+                "ContainerPort": 3000,
+                "HostPort": None
+        }]
+}]
+
